@@ -1,0 +1,23 @@
+/*초기화 코드*/
+*{
+	margin:0;
+ 	padding:0;
+}
+body{
+	width:960px; 
+	margin:0 auto;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+img{
+	border:0;
+}
+
+/*본 내용 코드*/
+
+
+
